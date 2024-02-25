@@ -21,7 +21,7 @@ The below table must contain the details of the repositories you will create, fi
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
 | 1 | Bike Sales Analysis| Bike Sales Analysis using Power BI to provide some useful insights| https://github.com/michaelodumanye/Power-BI-Bike-Sales-Analysis/blob/main/README.md      |
-| 2 |  -             |  -             | https://       |
+| 2 | Titanic Survival Analysis       | Predicting survival of passengers based on some factors| https://github.com/michaelodumanye/Titanic-Survival-Analysis     |
 | 3 |  -             |  -             | https://       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
