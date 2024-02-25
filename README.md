@@ -20,7 +20,7 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
+| 1 | Bike Sales Analysis| Bike Sales Analysis using Power BI to provide some useful insights| https://github.com/michaelodumanye/Power-BI-Bike-Sales-Analysis/blob/main/README.md      |
 | 2 |  -             |  -             | https://       |
 | 3 |  -             |  -             | https://       |
 
